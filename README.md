@@ -21,7 +21,11 @@
   + Your code should be cleaned of any commented unused code.
 
 #### File structure
-  
+  | Name       | Description                                                                             |
+|----------------|---------------------------------------------------------------------------------------|
+| 1. model_evaluation.ipynb | The working file                                      |
+| 2. dataset | Folder contain the datasets of data_train.csv, data_test.csv                                     |
+
 
 #### Steps:
 
