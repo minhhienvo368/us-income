@@ -2,7 +2,9 @@
   + Repository name: us-income
   + Duration: 1 day
   + Deadline: 16/Aug/2021 04:30 PM
-
+  + Datasets:  data_train.csv and data_test.csv 
+    - ../../../additional_resources/datasets/US Income/cleaned/data_train.csv
+    - ../../../additional_resources/datasets/US Income/cleaned/data_test.csv 
 #### Must-have features
   + Baseline accuracy
   + Multiple evaluation metrics
@@ -18,7 +20,8 @@
   + Your code should be commented.
   + Your code should be cleaned of any commented unused code.
 
-### Timeline: 
-15/08/2021 - 15/08/2021
+#### File structure
+  
 
+#### Steps:
 
