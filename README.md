@@ -27,5 +27,15 @@
 | 2. dataset | Folder contain the datasets of data_train.csv, data_test.csv                                     |
 
 
-#### Steps:
+#### Data exploration
+
+1. Some plots about distribution of features and target
+
+
+<img src = "visuals/income_distribution.png" width = "500" height = "300">
+
+
+3. 
+
+#### Machine Learning
 
