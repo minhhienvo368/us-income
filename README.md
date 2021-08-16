@@ -32,7 +32,7 @@
 1. Some plots about distribution of features and target
   + Age:
 
-<img src = "visuals/income_distribution.png" width = "400" height = "200">
+<img src = "visuals/income_distribution.png">
 
 
 3. 
