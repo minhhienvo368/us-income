@@ -30,9 +30,9 @@
 #### Data exploration
 
 1. Some plots about distribution of features and target
+  + Age:
 
-
-<img src = "visuals/income_distribution.png" width = "500" height = "300">
+<img src = "visuals/income_distribution.png" width = "500" height = "200">
 
 
 3. 
