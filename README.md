@@ -28,15 +28,22 @@
 
 
 #### Data exploration
-
-1. Some plots about distribution of features and target
-  + Features: Age, 
+- Data have been cleaned 
+- Some visualizations about distribution of features and target
+  + Features: Age vs income
+  <img src = "visuals/age_histogram.png" heigh = 200, width = 350>
+  <img src = "visuals/age_income.png" heigh = 200, width = 400>
 
   + Targets: 'income' distribution
 <img src = "visuals/income_distribution.png" heigh = 200, width = 500>
 
-
-3. 
-
 #### Machine Learning
+- The model has been created with some default parameters RandomForestClassifier(random_state=42, n_estimators=100). I've used OneHotEncoder for treating categorical data. The accuracy is high.
+   <img src = "visuals/basemodel.png" heigh = 200, width = 350>
 
+   <img src = "visuals/confusion_matrix.png" heigh = 200, width = 350>
+  
+  
+ #### Improving models
+ 
+ 
