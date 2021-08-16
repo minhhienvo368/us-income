@@ -46,4 +46,6 @@
   
  #### Improving models
  
- 
+ best_estimator =  RandomForestClassifier(max_features='sqrt', n_estimators=200, random_state=42)
+
+  <img src = "visuals/best_records.png" heigh = 200, width = 350>
