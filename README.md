@@ -32,7 +32,8 @@
 1. Some plots about distribution of features and target
   + Age:
 
-<img src = "visuals/income_distribution.png">
+  + Targets: 'income' distribution
+<img src = "visuals/income_distribution.png" heigh = 200>
 
 
 3. 
