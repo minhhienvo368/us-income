@@ -43,9 +43,15 @@
 
    <img src = "visuals/confusion_matrix.png" heigh = 200, width = 350>
   
-  
+   - The important features from test set
+    <img src = "visuals/feature_importance_test.png" heigh = 200, width = 350>
+   - The important features from train set
+    <img src = "visuals/feature_importance_train.png" heigh = 200, width = 350>
+
  #### Improving models
  
  best_estimator =  RandomForestClassifier(max_features='sqrt', n_estimators=200, random_state=42)
 
   <img src = "visuals/best_records.png" heigh = 200, width = 350>
+  
+  
