@@ -45,8 +45,10 @@
   
    - The important features from test set
     <img src = "visuals/feature_importance_test.png" heigh = 200, width = 350>
+    
    - The important features from train set
-    <img src = "visuals/feature_importance_train.png" heigh = 200, width = 350>
+   
+    <img src = "visuals/feature_importance_train.png" heigh = 200, width = 380>
 
  #### Improving models
  
