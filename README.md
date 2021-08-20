@@ -38,7 +38,8 @@
 <img src = "visuals/income_distribution.png" heigh = 200, width = 500>
 
 #### Machine Learning
-- The model has been created with some default parameters RandomForestClassifier(random_state=42, n_estimators=100). I've used OneHotEncoder for treating categorical data. The accuracy is high.
+- The model has been created with some default parameters RandomForestClassifier(random_state=42, n_estimators=100). 
+- I've used OneHotEncoding for treating categorical data. The accuracy is high.
    <img src = "visuals/basemodel.png" heigh = 200, width = 350>
 
    <img src = "visuals/confusion_matrix.png" heigh = 200, width = 350>
@@ -56,4 +57,6 @@
 
   <img src = "visuals/best_records.png" heigh = 200, width = 350>
   
-  
+ #### Conclution: 
+ 
+ The scores of model haven't improve much when I opted the best estimator of 200 and max features ='sqrt'.
